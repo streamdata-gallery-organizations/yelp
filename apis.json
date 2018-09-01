@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Yelp",
+	"description": "This is a repository of yelp APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/yelp.png",
+	"created": "2018-02-24",
+	"modified": "2018-09-01",
+	"url": "http://yelp.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Yelp",
+			"x-api-slug": "yelp",
+			"description": "User Reviews and Recommendations of Best Restaurants, Shopping, Nightlife, Food, Entertainment, Things to Do, Services and More at Yelp",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg",
+			"humanURL": "http://yelp.com/engineering",
+			"baseURL": "https://api.yelp.com//v3",
+			"tags": "Yelp",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/yelp/master/_listings/yelp/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Yelp",
+	"include": [
+		{
+			"name": "Yelp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/yelp/master/_listings/yelp/apis.yaml"
+		}
+	]
+}

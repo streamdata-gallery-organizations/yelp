@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.j
 x-kinRank: "9"
 x-alexaRank: "194"
 tags: Yelp
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-09-01"
+modified: "2018-09-01"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/yelp/master/_listings/yelp/apis.md
 specificationVersion: "0.14"
 apis:

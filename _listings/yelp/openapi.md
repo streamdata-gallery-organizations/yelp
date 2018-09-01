@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Yelp
 x-complete: 1
@@ -115,4 +114,3 @@ paths:
       - Transactions
       - Delivery
       - Search
----
